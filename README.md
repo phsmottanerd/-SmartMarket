@@ -1,3 +1,8 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image 3 de jun  de 2026, 17_15_30" src="https://github.com/user-attachments/assets/297164c0-8031-4b82-902f-e454f0a64ea9" />
+
+
+
 # 🛒 SmartMarket
 
 ## 🚀 Sistema de Mercado desenvolvido em Java
@@ -262,4 +267,4 @@ Calcular Total
 ⭐ Se gostou do projeto, deixe uma estrela no repositório!
 
 
-<img width="1536" height="1024" alt="ChatGPT Image 3 de jun  de 2026, 17_15_30" src="https://github.com/user-attachments/assets/297164c0-8031-4b82-902f-e454f0a64ea9" />
+
